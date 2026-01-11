@@ -11,7 +11,7 @@ wynik *=a ;
 b = b - 1;
 
 }
- printf("wynik to %d", wynik);
+ printf("wynik to %d \n", wynik);
 
 
-}git
+}
